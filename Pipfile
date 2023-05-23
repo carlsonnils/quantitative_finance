@@ -8,6 +8,15 @@ numpy = "*"
 scipy = "*"
 pandas = "*"
 alpaca-py = "*"
+pyarrow = "*"
+matplotlib = "*"
+seaborn = "*"
+bokeh = "*"
+plotly = "*"
+websocket-client = "*"
+rel = "*"
+keyboard = "*"
+alpaca-trade-api = "*"
 
 [dev-packages]
 
