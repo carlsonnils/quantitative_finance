@@ -17,6 +17,8 @@ websocket-client = "*"
 rel = "*"
 keyboard = "*"
 alpaca-trade-api = "*"
+polygon-api-client = "*"
+pyqt5 = "*"
 
 [dev-packages]
 
