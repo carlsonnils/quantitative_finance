@@ -19,6 +19,11 @@ keyboard = "*"
 alpaca-trade-api = "*"
 polygon-api-client = "*"
 pyqt5 = "*"
+requests = "*"
+polars = "*"
+kaleido = "*"
+ipykernel = "*"
+nbformat = "*"
 
 [dev-packages]
 
