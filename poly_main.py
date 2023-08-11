@@ -8,7 +8,7 @@ ticker = "AAPL"
 aggs = client.get_aggs(
     ticker,
     1,
-    "minute",
+    "day",
     datetime(2023, 5, 22),
     datetime.today(),
 )
